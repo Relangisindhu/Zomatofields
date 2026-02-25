@@ -205,64 +205,7 @@ elif option == "Analytics":
                     <b><i>"{row['txt']}"</i></b>
                     <div style="text-align: right; font-size: 10px; color: #777;">{time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(row['time']))}</div>
                 </div>
-            ''', unsafe_allow_html=True)
-z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            ''', unsafe_allow_html=True 
 "It's delicious, and i am happy to have this with my love and friends"
 
 
@@ -273,7 +216,6 @@ z
 
 
 "The cheese pizza I have ordered was bitter and salty. I regret ordering this as it was cold when it was delivered."
-
 
 
 
